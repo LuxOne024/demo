@@ -10,19 +10,19 @@
   },
   "AppPromotions": [
     {
-      "AppId": "com.example.myfirstapp",
-      "AppName": "My First App",
-      "AppIconUrl": "https://example.com/icons/firstapp.png"
+      "appId": "com.example.myfirstapp",
+      "appName": "My First App",
+      "appIconUrl": "https://example.com/icons/firstapp.png"
     },
     {
-      "AppId": "com.example.secondapp",
-      "AppName": "Second App",
-      "AppIconUrl": "https://example.com/icons/secondapp.png"
+      "appId": "com.example.secondapp",
+      "appName": "Second App",
+      "appIconUrl": "https://example.com/icons/secondapp.png"
     },
     {
-      "AppId": "com.example.thirdapp",
-      "AppName": "Third App",
-      "AppIconUrl": "https://example.com/icons/thirdapp.png"
+      "appId": "com.example.thirdapp",
+      "appName": "Third App",
+      "appIconUrl": "https://example.com/icons/thirdapp.png"
     }
   ]
 }
