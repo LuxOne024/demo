@@ -17,12 +17,12 @@
     {
       "appId": "com.example.secondapp",
       "appName": "Second App",
-      "appIconUrl": "https://raw.githubusercontent.com/LuxOne024/demo/main/appicon/1.jpg"
+      "appIconUrl": "https://raw.githubusercontent.com/LuxOne024/demo/main/appicon/3.webp"
     },
     {
       "appId": "com.example.thirdapp",
       "appName": "Third App",
-      "appIconUrl": "https://raw.githubusercontent.com/LuxOne024/demo/main/appicon/2.jpg"
+      "appIconUrl": "https://raw.githubusercontent.com/LuxOne024/demo/main/appicon/3.webp"
     }
   ]
 }
