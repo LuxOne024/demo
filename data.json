@@ -1,11 +1,28 @@
 {
   "AppUpdate": {
-    "LatestVersionCode": 2,
-    "ForceUpdate": false
+    "LatestVersionCode": 23,
+    "ForceUpdate": true
   },
   "AdConfig": {
     "ShowOnAppStart": false,
-    "InterstitialShowDelay": 120,
-    "InterstitialLoadInterval": 30000
-  }
+    "InterstitialShowDelay": 45,
+    "InterstitialLoadInterval": 15000
+  },
+  "AppPromotions": [
+    {
+      "AppId": "com.example.myfirstapp",
+      "AppName": "My First App",
+      "AppIconUrl": "https://example.com/icons/firstapp.png"
+    },
+    {
+      "AppId": "com.example.secondapp",
+      "AppName": "Second App",
+      "AppIconUrl": "https://example.com/icons/secondapp.png"
+    },
+    {
+      "AppId": "com.example.thirdapp",
+      "AppName": "Third App",
+      "AppIconUrl": "https://example.com/icons/thirdapp.png"
+    }
+  ]
 }
